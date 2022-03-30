@@ -1,4 +1,5 @@
 package test;
 
-public class te2 {
+public class
+te2 {
 }
